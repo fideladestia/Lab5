@@ -1,6 +1,6 @@
 # Lab5
 ## Latihan 1
-<p> * Berikut ini adalah source code program latihan 1
+* Berikut ini adalah source code program latihan 1
 
 ```python
 #Dictionary
@@ -54,13 +54,14 @@ print(kontak.items())
 print(30*"═")
 ```
 
-<p> * Berikut ini adalah hasil programnya
+* Berikut ini adalah hasil programnya
 
 ![gambar1](ss/ss1.PNG)
 
 ### Tugas Praktikum
 <p> Dibawah ini adalah program sederhana untuk membuat daftar nilai mahasiswa dengan menggunakan dictionary, dan menampilkan pilihan menu tambah, ubah, cari, hapus, dan lihat
-<p> * Berikut ini adalah source code programnya
+
+* Berikut ini adalah source code programnya
 
 ```python
 dataMahasiswa = {}
@@ -155,4 +156,5 @@ while True:
     else:
         print("Pilih menu yang tersedia: ")
 ```
+* Berikut ini adalah flowchartnya
 
