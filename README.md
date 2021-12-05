@@ -163,12 +163,16 @@ while True:
 * Dengan penjelasan source code sebagai berikut:
 
 ```python
--dataMahasiswa = {} Berikut adalah dictionary yang di definisikan terlebih dahulu.
+dataMahasiswa = {} 
 ```
+-Diatas adalah dictionary yang di definisikan terlebih dahulu.
+
 
 ```python
--while True: Berikut adalah perulangan yang digunakan.
-```
+-while True:
+``` 
+-Diatas adalah perulangan yang digunakan.
+
 
 ```python
 while True:
