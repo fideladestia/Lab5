@@ -158,7 +158,7 @@ while True:
 ```
 * Berikut ini adalah flowchartnya
 
-![gambar2](ss/ss)
+![gambar2](ss/ss3.jpeg)
 
 * Dengan penjelasan source code sebagai berikut:
 
