@@ -295,7 +295,7 @@ elif (c.lower() == 'd'):
 ```
 ### Berikut ini adalah hasil programnya
 
-![gambar3][ss/ss2.PNG]
+![gambar2][ss/ss2.PNG]
 
 ### Sekian dan terima kasih
 
